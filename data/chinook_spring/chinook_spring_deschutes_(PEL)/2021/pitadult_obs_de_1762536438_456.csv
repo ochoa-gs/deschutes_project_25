@@ -1,0 +1,50 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2021,MSH-2019-073-WZD.XML,400,3DD.003D4D9DDB,11H,,WZDF,BCHINL,505,2019-03-14,PEL,2021-06-22 08:41:27,A ,830.79,,2021-06-22 08:41:27,2021-06-23 02:42:15,0.75
+2021,HRP-2019-289-001.XML,4879,3DD.003D6B7B93,11H,,ROBU,PELTON,489,2020-04-06,PEL,2021-06-19 13:17:39,A ,439.18,,2021-06-19 13:17:39,2021-06-19 13:17:39,0.00
+2021,HRP15307.RBT,4991,3DD.007788A0EC,11H,,ROBU,PELTON,489,2016-04-04,PEL,2021-06-23 14:12:09,A ,1906.26,,2021-06-23 14:12:09,2021-10-05 11:00:00,103.87
+2021,HRP-2019-289-001.XML,4879,3DD.003D6B802F,11H,,ROBU,PELTON,489,2020-04-06,PEL,2021-06-24 11:55:34,A ,444.12,,2021-06-24 11:55:34,2021-06-26 05:24:43,1.73
+2021,HRP-2019-291-001.XML,4880,3DD.003D58D1FB,11H,,ROBU,PELTON,489,2020-04-08,PEL,2021-06-27 03:30:29,A ,444.77,,2021-06-27 03:30:29,2021-06-30 18:03:15,3.61
+2021,HRP-2019-289-001.XML,4879,3DD.003D6B8AE0,11H,,ROBU,PELTON,489,2020-04-06,PEL,2021-06-28 01:34:10,A ,447.69,,2021-06-28 01:34:10,2021-06-28 01:34:10,0.00
+2021,HRP-2018-310-001.XML,4981,3DD.003D3B0482,11H,,ROBU,PELTON,489,2019-04-10,PEL,2021-07-02 17:09:04,A ,814.42,,2021-07-02 17:09:04,2021-07-03 07:22:17,0.59
+2021,HRP-2019-291-001.XML,4880,3DD.003D58C85E,11H,,ROBU,PELTON,489,2020-04-08,PEL,2021-07-03 15:49:06,A ,451.28,,2021-07-03 15:49:06,2021-07-03 19:06:33,0.14
+2021,HRP-2019-291-001.XML,4880,3DD.003D58CE2F,11H,,ROBU,PELTON,489,2020-04-08,PEL,2021-07-04 02:57:27,A ,451.75,,2021-07-04 02:57:27,2021-07-04 02:57:27,0.00
+2021,HRP-2019-290-001.XML,4916,3DD.003D58B4BD,11H,,ROBU,PELTON,489,2020-04-07,PEL,2021-07-04 03:33:12,A ,452.77,,2021-07-04 03:33:12,2021-07-04 12:37:33,0.38
+2021,HRP-2019-290-001.XML,4916,3DD.003D58B728,11H,,ROBU,PELTON,489,2020-04-07,PEL,2021-07-05 12:57:09,A ,454.16,,2021-07-05 12:57:09,2021-07-05 12:57:09,0.00
+2021,HRP-2019-291-001.XML,4880,3DD.003D58D3BF,11H,,ROBU,PELTON,489,2020-04-08,PEL,2021-07-05 13:24:19,A ,453.18,,2021-07-05 13:24:19,2021-07-05 13:24:19,0.00
+2021,HRP-2019-291-001.XML,4880,3DD.003D58D318,11H,,ROBU,PELTON,489,2020-04-08,PEL,2021-07-07 05:24:50,A ,454.85,,2021-07-07 05:24:50,2021-07-29 10:41:27,22.22
+2021,OTD-2020-302-001.XML,4954,3DD.003D8AAD5D,11H,,ROBU,PELTON,489,2021-04-08,PEL,2021-07-21 18:21:44,A ,104.06,,2021-07-21 18:21:44,2021-07-24 03:42:25,2.39
+2021,HRP-2019-290-001.XML,4916,3DD.003D58BF0D,11H,,ROBU,PELTON,489,2020-04-07,PEL,2021-07-29 09:45:17,A ,478.03,,2021-07-29 09:45:17,2021-07-29 09:45:17,0.00
+2021,HRP-2019-291-001.XML,4880,3DD.003D58C9EA,11H,,ROBU,PELTON,489,2020-04-08,PEL,2021-08-03 09:48:33,A ,482.03,,2021-08-03 09:48:33,2021-08-03 09:48:33,0.00
+2021,JAR-2019-038-WS4.XML,5750,3DD.003C066F48,11H,,WSPH,WSPH,479,2019-04-05,PEL,2021-07-04 19:16:57,A ,821.35,,2021-07-04 19:16:57,2021-07-05 09:10:03,0.58
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Spring Chinook 17 Unique Tag IDs Observed Pelton Dam Ladder - Deschutes (PEL) rkm 328.161; Deschutes;  2021
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2021)
+Generated 07 Nov 2025 09:27:18 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Pelton Dam Ladder - Deschutes (PEL) rkm 328.161; Deschutes; not constrained by query Date Range;  2021.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Pelton Dam Ladder - Deschutes (PEL) rkm 328.161; Deschutes; not constrained by query Date Range;  2021.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Pelton Dam Ladder - Deschutes (PEL) rkm 328.161; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Pelton Dam Ladder - Deschutes (PEL) rkm 328.161; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

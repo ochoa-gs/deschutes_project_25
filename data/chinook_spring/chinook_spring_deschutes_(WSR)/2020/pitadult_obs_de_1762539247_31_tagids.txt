@@ -1,0 +1,19 @@
+3D9.1C2C60953E
+3DD.003D6B8B81
+3DD.007750A01D
+3DD.007750B384
+3DD.007750E17E
+3DD.007751043E
+3DD.00775107AC
+3DD.00775144ED
+3DD.0077515428
+3DD.0077519331
+3DD.007751A72D
+3DD.007751B07C
+3DD.007751BE94
+3DD.007751EDBF
+3DD.00775208D9
+3DD.00775263DD
+3DD.0077A22132
+3DD.0077B5FE7A
+# Unique TagID List for DART PIT Tag Adult Returns Observation Detail. Tag Count 18. SpRRT Adult Spring Chinook. Observation Site Warm Springs River PIT Array (WSR) rkm 328.135.001, Deschutes. Date Range  2020. Released in Deschutes (328.0 - 328.999) Generated 07 Nov 2025 10:14:07 PST. Columbia River DART (Data Access in Real Time) www.cbr.washington.edu/dart.

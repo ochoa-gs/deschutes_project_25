@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/data/watergauge_deschutes/madras_watergage_clean/
+/plots/
+/docs/
+
+# General R Exclusions
+.Rhistory
+.RData
+.Rproj.user

@@ -1,0 +1,18 @@
+3DD.003C066F48
+3DD.003D3B0482
+3DD.003D4D9DDB
+3DD.003D58B4BD
+3DD.003D58B728
+3DD.003D58BF0D
+3DD.003D58C85E
+3DD.003D58C9EA
+3DD.003D58CE2F
+3DD.003D58D1FB
+3DD.003D58D318
+3DD.003D58D3BF
+3DD.003D6B7B93
+3DD.003D6B802F
+3DD.003D6B8AE0
+3DD.003D8AAD5D
+3DD.007788A0EC
+# Unique TagID List for DART PIT Tag Adult Returns Observation Detail. Tag Count 17. SpRRT Adult Spring Chinook. Observation Site Pelton Dam Ladder - Deschutes (PEL) rkm 328.161, Deschutes. Date Range  2021. Released in Deschutes (328.0 - 328.999) Generated 07 Nov 2025 09:27:18 PST. Columbia River DART (Data Access in Real Time) www.cbr.washington.edu/dart.

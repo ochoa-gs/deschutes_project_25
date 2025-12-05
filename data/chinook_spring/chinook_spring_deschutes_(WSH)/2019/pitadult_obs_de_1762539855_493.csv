@@ -1,0 +1,47 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2019,WSF16322.WSH,94,3DD.00778B7877,11W,100,WARMSR,WARMSR,464,2016-11-17,WSH,2019-05-12 22:08:27,A ,906.30,,2019-05-12 22:08:27,2019-05-12 22:13:03,0.00
+2019,WSF17110.WSH,38,3DD.00778BE21A,11W,118,WARMSR,WARMSR,464,2017-04-20,WSH,2019-05-16 18:38:47,A ,756.22,,2019-05-16 18:38:47,2019-05-19 10:37:25,2.67
+2019,WSF16321.WST,19,3DD.00778E80A9,11W,91,WARMSR,WARMSR,464,2016-11-16,WSH,2019-05-17 18:06:26,A ,912.20,,2019-05-17 18:06:26,2019-05-26 13:03:37,8.79
+2019,WSF17137.WSH,14,3DD.00778AE5D0,11W,122,WARMSR,WARMSR,464,2017-05-17,WSH,2019-05-23 07:26:01,A ,735.74,,2019-05-23 07:26:01,2019-05-23 07:26:01,0.00
+2019,WSF16315.WST,14,3DD.00778A755C,11W,87,WARMSR,WARMSR,464,2016-11-10,WSH,2019-05-23 18:18:41,A ,924.10,,2019-05-23 18:18:41,2019-05-23 18:20:23,0.00
+2019,WSF17108.WSH,27,3DD.00778A03EB,11W,110,WARMSR,WARMSR,464,2017-04-18,WSH,2019-06-02 09:53:48,A ,774.76,,2019-06-02 09:53:48,2019-06-02 19:35:31,0.40
+2019,WSF17101.WSH,36,3DD.00778B2555,11W,105,WARMSR,WARMSR,464,2017-04-11,WSH,2019-06-09 20:11:41,A ,789.35,,2019-06-09 20:11:41,2019-06-09 20:45:28,0.02
+2019,WSF-2019-132-WSA.XML.DART9,9,3DD.00778E77C8,11W,730,WARMSR,WARMSR,482,2019-05-23,WSH,2019-07-03 17:06:48,A ,41.20,,2019-07-03 17:06:48,2019-07-04 14:43:54,0.90
+2019,WSF16322.WSH,94,3DD.00778BCE9B,11W,84,WARMSR,WARMSR,464,2016-11-17,WSH,2019-08-19 13:38:40,A ,1004.95,,2019-08-19 13:38:40,2019-08-19 13:38:40,0.00
+2019,WSF-2018-100-WSH.XML,29,3DD.00778A25CA,11W,123,WSPH,WARMSR,482,2018-04-10,WSH,2019-11-16 10:59:25,A ,585.04,,2019-11-16 10:59:25,2019-11-26 20:17:17,10.39
+2019,JAR17038.WS3,4955,3DD.0077810FCF,11H,,WSPH,WSPH,479,2017-03-30,WSH,2019-05-20 14:32:45,A ,781.29,,2019-05-20 14:32:45,2019-06-11 17:50:40,22.14
+2019,JAR17038.WS3,4955,3DD.00778129EC,11H,,WSPH,WSPH,479,2017-03-30,WSH,2019-05-24 05:21:26,A ,784.91,,2019-05-24 05:21:26,2019-05-24 05:29:22,0.01
+2019,JAR17037.WS1,4941,3DD.0077389956,11H,,WSPH,WSPH,479,2017-03-30,WSH,2019-05-24 16:59:26,A ,785.40,,2019-05-24 16:59:26,2019-05-24 17:03:04,0.00
+2019,JAR-2018-037-WS5.XML,7419,3DD.0077A14E99,11H,,WSPH,WSPH,479,2018-03-29,WSH,2019-05-28 12:55:44,A ,424.79,,2019-05-28 12:55:44,2019-05-29 06:35:50,0.74
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Spring Chinook 14 Unique Tag IDs Observed Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes;  2019
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2019)
+Generated 07 Nov 2025 10:24:15 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes; not constrained by query Date Range;  2019.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes; not constrained by query Date Range;  2019.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

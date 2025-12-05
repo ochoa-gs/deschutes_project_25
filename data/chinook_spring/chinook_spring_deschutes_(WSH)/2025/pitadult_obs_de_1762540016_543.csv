@@ -1,0 +1,72 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2025,OTD-2023-297-pel.xml,4875,3DD.003E43EF1F,11H,,ROBU,PELTON,489,2024-04-09,WSH,2025-08-29 14:44:25,A ,507.24,,2025-08-29 14:44:25,2025-08-31 10:06:03,1.81
+2025,OTD-2023-298-pel.xml,4693,3DD.003E4408F5,11H,,ROBU,PELTON,489,2024-04-09,WSH,2025-09-11 16:56:32,A ,520.33,,2025-09-11 16:56:32,2025-09-18 06:22:37,6.56
+2025,WSF-2025-139-001.xml,25,3DD.0078E3F2AE,11W,610,WSPH,WARMSR,463,2025-05-19,WSH,2025-06-02 17:28:12,A ,14.22,,2025-06-02 17:28:12,2025-06-02 17:36:11,0.01
+2025,WSF-2025-175-001.xml,10,3DD.0078E3F4E4,11W,630,WSPH,WARMSR,463,2025-06-24,WSH,2025-07-12 21:11:12,A ,18.47,,2025-07-12 21:11:12,2025-07-14 08:39:58,1.48
+2025,WSF-2025-160-001.xml,26,3DD.0078E3F687,11W,780,WSPH,WARMSR,463,2025-06-09,WSH,2025-08-26 06:53:12,A ,77.75,,2025-08-26 06:53:12,2025-09-11 05:18:15,15.93
+2025,WSF-2022-307-WSH.xml,18,3DD.003E22234B,11W,100,WARMSR,WARMSR,482,2022-11-03,WSH,2025-08-28 05:10:46,A ,1028.81,,2025-08-28 05:10:46,2025-08-29 01:52:42,0.86
+2025,WSF-2025-157-001.xml,6,3DD.0078E3F69D,11W,750,WSPH,WARMSR,463,2025-06-06,WSH,2025-09-15 23:06:11,A ,101.45,,2025-09-15 23:06:11,2025-09-18 06:32:09,2.31
+2025,WSF-2019-132-WSA.XML.DART7,5,3DD.0077515305,11W,670,WARMSR,WARMSR,482,2019-05-21,WSH,2025-10-24 13:33:37,A ,2348.10,,2025-10-24 13:33:37,2025-10-28 18:17:48,4.20
+2025,JAR-2023-032-014.xml,3747,3DD.003D85563A,11H,117,WSPH,WSPH,479,2023-04-10,WSH,2025-05-14 11:03:10,A ,765.15,,2025-05-14 11:03:10,2025-05-14 11:49:01,0.03
+2025,JAR-2023-032-014.xml,3747,3DD.003D8557EF,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-14 13:21:54,A ,765.24,,2025-05-14 13:21:54,2025-05-14 15:46:19,0.10
+2025,JAR-2023-030-011.xml,3748,3DD.003D8614E7,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-14 13:47:50,A ,765.26,,2025-05-14 13:47:50,2025-05-14 16:19:01,0.10
+2025,JAR-2023-032-014.xml,3747,3DD.003D855CE5,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-14 14:33:31,A ,765.29,,2025-05-14 14:33:31,2025-05-14 17:25:28,0.12
+2025,JAR-2023-031-012.xml,3744,3DD.003D861F57,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-14 15:14:20,A ,765.32,,2025-05-14 15:14:20,2025-05-14 15:28:20,0.01
+2025,JAR-2023-030-011.xml,3748,3DD.003D861710,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-14 23:01:24,A ,765.65,,2025-05-14 23:01:24,2025-05-14 23:04:50,0.00
+2025,JAR-2023-030-011.xml,3748,3DD.003D86188E,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-15 05:57:13,A ,765.94,,2025-05-15 05:57:13,2025-05-16 15:00:39,1.38
+2025,JAR-2023-031-012.xml,3744,3DD.003D85B505,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-16 00:58:47,A ,766.73,,2025-05-16 00:58:47,2025-05-17 14:12:37,1.55
+2025,JAR-2023-031-012.xml,3744,3DD.003D85B018,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-16 13:42:20,A ,767.26,,2025-05-16 13:42:20,2025-05-16 14:30:27,0.03
+2025,JAR-2023-030-011.xml,3748,3DD.003D861BC0,11H,112,WSPH,WSPH,479,2023-04-10,WSH,2025-05-17 08:48:59,A ,768.05,,2025-05-17 08:48:59,2025-05-17 09:15:13,0.02
+2025,JAR-2023-032-014.xml,3747,3DD.003D855C83,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-17 17:12:00,A ,768.40,,2025-05-17 17:12:00,2025-05-17 17:30:15,0.01
+2025,JAR-2023-031-013.xml,3736,3DD.003D85BDD3,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-17 18:24:47,A ,768.45,,2025-05-17 18:24:47,2025-05-17 18:54:56,0.02
+2025,JAR-2023-032-014.xml,3747,3DD.003D855064,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-17 19:53:06,A ,768.52,,2025-05-17 19:53:06,2025-05-26 12:33:27,8.69
+2025,JAR-2023-030-011.xml,3748,3DD.003D860FEC,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-18 12:59:07,A ,769.23,,2025-05-18 12:59:07,2025-05-18 13:43:38,0.03
+2025,JAR-2023-031-012.xml,3744,3DD.003D862056,11H,106,WSPH,WSPH,479,2023-04-10,WSH,2025-05-19 18:55:58,A ,770.48,,2025-05-19 18:55:58,2025-05-19 19:32:37,0.03
+2025,JAR-2023-030-011.xml,3748,3DD.003D861870,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-21 23:03:17,A ,772.65,,2025-05-21 23:03:17,2025-05-22 19:54:17,0.87
+2025,JAR-2023-032-014.xml,3747,3DD.003D855AD2,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-25 22:58:09,A ,776.64,,2025-05-25 22:58:09,2025-05-26 04:54:26,0.25
+2025,JAR-2023-031-012.xml,3744,3DD.003D861E9D,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-27 20:50:38,A ,778.56,,2025-05-27 20:50:38,2025-05-28 14:39:02,0.74
+2025,JAR-2023-031-012.xml,3744,3DD.003D85AEB2,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-05-29 02:03:50,A ,779.77,,2025-05-29 02:03:50,2025-05-29 13:42:50,0.49
+2025,JAR-2023-030-011.xml,3748,3DD.003D86186A,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-06-01 02:13:27,A ,782.78,,2025-06-01 02:13:27,2025-06-01 13:57:29,0.49
+2025,JAR-2023-031-013.xml,3736,3DD.003D85BF9C,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-06-02 15:50:01,A ,784.35,,2025-06-02 15:50:01,2025-06-02 15:53:38,0.00
+2025,JAR-2023-030-011.xml,3748,3DD.003D86142A,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-06-04 17:06:38,A ,786.40,,2025-06-04 17:06:38,2025-06-05 17:42:09,1.02
+2025,JAR-2023-030-011.xml,3748,3DD.003D86182E,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-06-05 00:23:20,A ,786.70,,2025-06-05 00:23:20,2025-06-05 04:51:09,0.19
+2025,JAR-2023-032-014.xml,3747,3DD.003D855320,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-06-11 04:01:18,A ,792.86,,2025-06-11 04:01:18,2025-06-11 05:05:26,0.04
+2025,JAR-2023-031-012.xml,3744,3DD.003D85AEC6,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-06-16 00:51:54,A ,797.72,,2025-06-16 00:51:54,2025-06-19 15:51:30,3.62
+2025,JAR-2023-030-011.xml,3748,3DD.003D861111,11H,120,WSPH,WSPH,479,2023-04-10,WSH,2025-06-23 18:06:04,A ,805.44,,2025-06-23 18:06:04,2025-06-23 19:18:15,0.05
+2025,JAR-2023-030-011.xml,3748,3DD.003D861423,11H,,WSPH,WSPH,479,2023-04-10,WSH,2025-07-08 23:25:53,A ,820.66,,2025-07-08 23:25:53,2025-07-11 05:23:49,2.25
+2025,JAR-2025-027-002.xml.DART2,1730,3DD.0078C5F8A7,11H,119,WSPH,WSPH,479,2025-03-07,WSH,2025-08-25 14:11:07,A ,170.78,,2025-08-25 14:11:07,2025-08-25 19:18:40,0.21
+2025,WSF-2024-074-AHT.xml,39,3D9.1C2DDCBED1,11W,95,WSRAHT,WSRAHT,480,2024-03-14,WSH,2025-06-09 11:55:56,A ,452.08,,2025-06-09 11:55:56,2025-06-16 17:23:55,7.23
+2025,WSF-2023-104-MKN.xml,8,3DD.003D90A89C,11W,104,WSRMKN,WSRMKN,510,2023-04-14,WSH,2025-05-27 04:56:56,A ,773.77,,2025-05-27 04:56:56,2025-05-27 06:06:56,0.05
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Spring Chinook 38 Unique Tag IDs Observed Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes;  01/01/2025 - 11/06/2025
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  01/01/2025 - 11/06/2025)
+Generated 07 Nov 2025 10:26:56 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Last possible Data Date included is 11/06/2025.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes; not constrained by query Date Range;  01/01/2025 - 11/06/2025.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes; not constrained by query Date Range;  01/01/2025 - 11/06/2025.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Warm Springs Hatchery (WSH) rkm 328.135.016; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

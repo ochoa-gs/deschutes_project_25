@@ -1,0 +1,34 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2015,WSF13157.SHA,3354,384.3B23AD61A9,13W,80,DESCH1,DESCH1,477,2013-06-07,WSR,2015-11-24 04:00:06,A ,899.83,,2015-11-24 04:00:06,2015-11-24 04:00:06,0.00
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Fall Chinook 1 Unique Tag IDs Observed Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes;  2015
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2015)
+Generated 07 Nov 2025 10:08:47 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes; not constrained by query Date Range;  2015.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes; not constrained by query Date Range;  2015.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

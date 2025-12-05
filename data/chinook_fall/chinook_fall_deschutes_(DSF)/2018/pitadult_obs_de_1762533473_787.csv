@@ -1,0 +1,48 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2018,WSF17165.LJF,2020,3DD.0077BBC018,13W,73,DESCH1,DESCH1,477,2017-06-15,DSF,2018-09-23 07:22:37,A ,464.96,,2018-09-23 07:22:37,2018-09-23 07:58:19,0.02
+2018,WSF17161.LJF,1061,3DD.0077B9A26F,13W,83,DESCH1,DESCH1,477,2017-06-11,DSF,2018-09-28 23:35:10,A ,474.62,,2018-09-28 23:35:10,2018-09-29 01:01:06,0.06
+2018,WSF17172.LJF,1444,3DA.1A19B3D74B,13W,63,DESCH1,DESCH1,477,2017-06-22,DSF,2018-10-03 06:37:20,A ,467.94,,2018-10-03 06:37:20,2018-10-03 07:08:47,0.02
+2018,WSF17166.LJF,3783,3DD.0077BBBF19,13W,96,DESCH1,DESCH1,477,2017-06-16,DSF,2018-10-11 16:10:08,A ,482.31,,2018-10-11 16:10:08,2018-10-11 17:04:51,0.04
+2018,WSF16169.LJF,3398,384.1B79740E42,13W,85,DESCH1,DESCH1,477,2016-06-18,DSF,2018-10-11 16:25:38,A ,845.31,,2018-10-11 16:25:38,2018-10-11 23:28:12,0.29
+2018,WSF17164.LJF,2611,3DD.0077BA13D3,13W,64,DESCH1,DESCH1,477,2017-06-14,DSF,2018-10-13 16:50:27,A ,486.36,,2018-10-13 16:50:27,2018-10-13 16:50:27,0.00
+2018,WSF17164.LJF,2611,3DA.1A19B37D52,13W,53,DESCH1,DESCH1,477,2017-06-14,DSF,2018-10-15 07:21:38,A ,487.96,,2018-10-15 07:21:38,2018-10-15 07:28:03,0.00
+2018,WSF16160.LJF,2376,3DD.0077990D4F,13W,84,DESCH1,DESCH1,477,2016-06-09,DSF,2018-10-17 23:11:23,A ,860.61,,2018-10-17 23:11:23,2018-10-17 23:11:23,0.00
+2018,WSF17173.LJF,1663,3DA.1A19B3B96F,13W,57,DESCH1,DESCH1,477,2017-06-23,DSF,2018-10-19 19:31:46,A ,483.46,,2018-10-19 19:31:46,2018-10-19 19:31:46,0.00
+2018,WSF15160.005,3006,384.1B797729FD,13W,62,DESCH1,DESCH1,477,2015-06-10,DSF,2018-10-22 17:34:45,A ,1230.34,,2018-10-22 17:34:45,2018-10-22 17:34:45,0.00
+2018,WSF15169.010,3082,3DD.00778E035C,13W,93,DESCH1,DESCH1,477,2015-06-19,DSF,2018-10-22 17:56:50,A ,1221.36,,2018-10-22 17:56:50,2018-10-22 17:59:40,0.00
+2018,WSF16169.LJF,3398,384.1B7973FD8F,13W,77,DESCH1,DESCH1,477,2016-06-18,DSF,2018-10-26 16:35:21,A ,860.32,,2018-10-26 16:35:21,2018-10-27 01:17:38,0.36
+2018,WSF17164.LJF,2611,3DA.1A19B38730,13W,66,DESCH1,DESCH1,477,2017-06-14,DSF,2018-10-29 16:47:39,A ,502.36,,2018-10-29 16:47:39,2018-10-29 16:47:39,0.00
+2018,WSF17164.LJF,2611,3DD.0077BA44DE,13W,72,DESCH1,DESCH1,477,2017-06-14,DSF,2018-11-06 07:30:54,A ,509.97,,2018-11-06 07:30:54,2018-11-06 07:30:54,0.00
+2018,WSF17164.LJF,2611,3DD.0077BB29EE,13W,73,DESCH1,DESCH1,477,2017-06-14,DSF,2018-11-18 11:18:07,A ,522.13,,2018-11-18 11:18:07,2018-11-18 13:07:06,0.08
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Fall Chinook 15 Unique Tag IDs Observed Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes;  2018
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2018)
+Generated 07 Nov 2025 08:37:53 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes; not constrained by query Date Range;  2018.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes; not constrained by query Date Range;  2018.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

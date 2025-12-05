@@ -1,0 +1,105 @@
+
+Observed Color,NDCI Value Range,Interpretation (Chl-a Level),Water Quality Implication
+Deep Blue / Purple,Low (≈−0.1 to 0.05),Very Low Concentration.,"Very clean water with minimal phytoplankton/algae. This is expected in cold, fast-moving rivers."
+Green / Yellow-Green,Medium (≈0.05 to 0.15),Moderate Concentration.,"Typical water quality. Indicates a measurable amount of chlorophyll-a, which is normal for a river environment."
+Yellow / Orange,High (≈0.15 to 0.20),High Concentration.,"Elevated algal biomass. Could indicate high primary productivity or a localized area of algal accumulation (e.g., slow-moving water, an eddy)."
+Bright Red,Very High (≈0.20+),Very High Concentration (Bloom).,Strong indication of an algal bloom. These areas warrant attention as they represent the highest chlorophyll levels detected.
+
+Level-2A: Surface Reflectance
+## AOI
+- 'peltonTrapAOI' = pelton trap
+- 
+## L2-A data
+- post 2017
+## Temporal Resolution 
+- 5 days, 2-3 days at higher latitudes
+## Spectral Resolution
+- 12 bands 
+## Spatial Resolution
+- for our purposes 10m (blue, green, red), 20m (red edge), 
+- 
+## SR
+- data has been atmospherically corrected
+- water quality data requires L2A data.
+
+## Key bands for chlorophyl-a concentrations
+- Green
+- Red - 665nm
+- Red-Edge1 - 705nm
+- NIR
+
+## Importance of Band 4 (red) and Band 5 (Red-Edge)
+
+
+## Things we can do with this data
+1. Time series plot (temporal analysis)
+
+# README: Chlorophyll-a Mapping of the Lower Deschutes River
+
+## 1. Overview
+
+This script utilizes Google Earth Engine (GEE) and Sentinel-2 satellite imagery to monitor and analyze chlorophyll-a (Chl-a) concentration in the Lower Deschutes River, Oregon. Chl-a serves as a proxy for phytoplankton and algal biomass, providing key insights into water quality and productivity.
+
+The core method involves applying the **Normalized Difference Chlorophyll Index (NDCI)** to atmospherically corrected surface reflectance data.
+
+## 2. Data Source
+
+| Parameter | Value | Rationale |
+| :--- | :--- | :--- |
+| **Satellite Platform** | Sentinel-2 MSI (Multi-Spectral Instrument) | High spatial resolution (10m bands) and inclusion of critical Red-Edge bands. |
+| **GEE Collection** | COPERNICUS/S2_SR_HARMONIZED | Uses **Level-2A (L2A) Surface Reflectance** data, which is essential for accurate water analysis as it is corrected for atmospheric effects (clouds, haze, etc.). |
+| **Date Range** | 2018-01-10 to 2019-09-30 | Filters the analysis to a specific period of interest. The script filters out images with high cloud cover (< 10%). |
+
+## 3. Method: Normalized Difference Chlorophyll Index (NDCI)
+
+NDCI is a robust index for assessing Chl-a in turbid (Case 2) inland waters. It maximizes the contrast between the strong absorption of light by chlorophyll in the Red band (B4) and the reflectance shoulder in the Red-Edge band (B5).
+
+### A. NDCI Calculation
+
+The index is calculated for every pixel in the filtered image collection:
+
+NDCI = (Band 5 - Band 4) / (Band 5 + Band 4)
+
+| Sentinel-2 Band | Wavelength (nm) | Resolution (m) | Role |
+| :--- | :--- | :--- | :--- |
+| **B4** (Red) | approx 665nm | 10 | Chlorophyll-a **Absorption Maximum**. |
+| **B5** (Red-Edge 1) | approx 705nm | 20 | Chlorophyll-a **Reflectance Shoulder** (used for normalization). |
+
+
+### B. Robust Multi-Band Water Mask
+
+To accurately isolate river pixels from surrounding land, shadows, and riparian vegetation (which is crucial for a narrow river in a deep canyon), a three-condition water mask is applied to the NDCI results:
+
+1.  **NDWI Condition:** NDWI > 0.05 (Filters by high moisture content).
+2.  **NIR Condition (B8):** NIR < 1200 (Excludes bright vegetation and land, as water absorbs NIR).
+3.  **Blue Condition (B2):** Blue < 1800 (Excludes bright land and bare soil areas).
+
+Only pixels meeting **all three** criteria are included in the final NDCI calculation.
+
+## 4. Analysis and Outputs
+
+The script generates the following outputs by taking the **median** value of all cloud-free images over the defined date range:
+
+### A. Map Output (NDCI Composite)
+
+* **Layer:** NDCI (Chlorophyll) for Active AOI
+* **Purpose:** Shows the spatial distribution of average Chl-a concentration over the study period.
+* **Color Scale:**
+    * **Deep Blue/Purple:** Lowest NDCI (Cleanest Water, Low Chl-a) approx -0.06
+    * **Red/Yellow:** Highest NDCI (Algal Bloom, High Chl-a) approx 0.30
+
+
+### B. Time Series Plot (Temporal Chart)
+
+* **Layer:** Median NDCI Time Series for Active Region
+* **Purpose:** Plots the **median NDCI value** of the selected Area of Interest (AOI) for every single cloud-free image in the collection. This reveals seasonal trends, the onset of algal blooms, and recovery periods.
+
+### C. Region Selection
+
+The script is structured to facilitate comparison between critical locations. The analysis is controlled by the user defining and selecting an **ACTIVE_AOI** variable at the beginning of the script, allowing quick switching between defined areas:
+
+* **peltonTrapAOI**: Area immediately below the Pelton Dam.
+* **oakSpringsAOI**: Downstream reference site.
+
+---
+**To reproduce this analysis:** Simply draw the corresponding polygons in the GEE Code Editor, ensure the variable names match those used in **STEP 1** of the script, and adjust the ACTIVE_AOI variable to select the site you wish to analyze.

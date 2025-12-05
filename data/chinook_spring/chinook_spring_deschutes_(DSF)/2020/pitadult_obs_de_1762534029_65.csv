@@ -1,0 +1,75 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2020,HRP-2017-292-001.XML,4943,3DD.003C006237,11H,,ROBU,PELTON,489,2018-04-11,DSF,2020-05-23 11:22:22,A ,773.02,,2020-05-23 11:22:22,2020-05-23 11:22:22,0.00
+2020,HRP-2017-296-RBT.XML,4762,3DD.003BFE85A5,11H,,ROBU,PELTON,489,2018-04-05,DSF,2020-06-14 23:50:40,A ,801.49,,2020-06-14 23:50:40,2020-06-14 23:50:40,0.00
+2020,HRP-2019-291-001.XML,4880,3DD.003D58C7C1,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-06-25 20:38:25,A ,78.49,,2020-06-25 20:38:25,2020-06-26 04:48:09,0.34
+2020,HRP-2019-291-001.XML,4880,3DD.003D58C924,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-07-07 10:09:47,A ,90.05,,2020-07-07 10:09:47,2020-07-07 10:36:35,0.02
+2020,HRP-2019-289-001.XML,4879,3DD.003D6B7D59,11H,,ROBU,PELTON,489,2020-04-06,DSF,2020-07-09 05:52:39,A ,93.87,,2020-07-09 05:52:39,2020-07-09 06:35:17,0.03
+2020,HRP-2019-289-001.XML,4879,3DD.003D6B864B,11H,,ROBU,PELTON,489,2020-04-06,DSF,2020-07-10 10:17:07,A ,95.05,,2020-07-10 10:17:07,2020-07-10 12:04:32,0.07
+2020,HRP-2019-289-001.XML,4879,3DD.003D6B8B81,11H,,ROBU,PELTON,489,2020-04-06,DSF,2020-07-17 16:04:19,A ,102.29,,2020-07-17 16:04:19,2020-07-17 16:04:19,0.00
+2020,HRP-2019-290-001.XML,4916,3DD.003D58B44A,11H,,ROBU,PELTON,489,2020-04-07,DSF,2020-07-19 18:00:49,A ,103.38,,2020-07-19 18:00:49,2020-07-19 18:14:14,0.01
+2020,HRP-2019-291-001.XML,4880,3DD.003D58C979,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-07-25 17:04:43,A ,108.34,,2020-07-25 17:04:43,2020-07-25 18:12:03,0.05
+2020,HRP-2019-289-001.XML,4879,3DD.003D6B8CE0,11H,,ROBU,PELTON,489,2020-04-06,DSF,2020-07-28 06:29:40,A ,112.90,,2020-07-28 06:29:40,2020-07-28 06:29:40,0.00
+2020,HRP-2019-290-001.XML,4916,3DD.003D58BC07,11H,,ROBU,PELTON,489,2020-04-07,DSF,2020-07-30 11:57:26,A ,114.12,,2020-07-30 11:57:26,2020-07-30 11:57:26,0.00
+2020,HRP-2019-291-001.XML,4880,3DD.003D58C556,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-07-30 18:09:53,A ,113.38,,2020-07-30 18:09:53,2020-07-30 18:11:38,0.00
+2020,HRP-2019-291-001.XML,4880,3DD.003D58C870,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-08-01 07:27:43,A ,114.94,,2020-08-01 07:27:43,2020-08-01 07:27:43,0.00
+2020,HRP-2019-291-001.XML,4880,3DD.003D58CC1B,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-08-03 04:50:53,A ,116.83,,2020-08-03 04:50:53,2020-08-03 05:54:41,0.04
+2020,HRP-2019-291-001.XML,4880,3DD.003D58C55F,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-08-05 17:12:56,A ,119.34,,2020-08-05 17:12:56,2020-08-05 17:33:12,0.01
+2020,HRP-2019-291-001.XML,4880,3DD.003D58C210,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-08-09 12:48:54,A ,123.16,,2020-08-09 12:48:54,2020-08-09 12:48:54,0.00
+2020,HRP-2019-291-001.XML,4880,3DD.003D58CAEE,11H,,ROBU,PELTON,489,2020-04-08,DSF,2020-08-20 15:44:03,A ,134.28,,2020-08-20 15:44:03,2020-08-20 18:34:32,0.12
+2020,HRP-2019-289-001.XML,4879,3DD.003D6B841E,11H,,ROBU,PELTON,489,2020-04-06,DSF,2020-09-11 08:34:06,A ,157.98,,2020-09-11 08:34:06,2020-09-11 08:38:42,0.00
+2020,WSF17101.WSH,36,3DD.007789A7CE,11W,112,WARMSR,WARMSR,464,2017-04-11,DSF,2020-06-10 00:27:28,A ,1155.53,,2020-06-10 00:27:28,2020-06-10 00:33:23,0.00
+2020,WSF-2019-144-WSH.XML,47,3DD.0077515428,11W,133,WARMSR,WARMSR,482,2019-05-24,DSF,2020-09-05 09:37:07,A ,470.01,,2020-09-05 09:37:07,2020-09-05 09:37:07,0.00
+2020,WSF-2018-318-BVR.XML,13,3DD.0077B705EB,11W,96,WARMSR,WARMSR,464,2018-11-14,DSF,2020-09-10 12:29:17,A ,665.93,,2020-09-10 12:29:17,2020-09-10 13:45:55,0.05
+2020,WSF-2018-332-BVR.XML,5,3DD.0077B97AA3,11W,103,WARMSR,WARMSR,464,2018-11-28,DSF,2020-09-16 15:03:29,A ,658.19,,2020-09-16 15:03:29,2020-09-16 18:22:31,0.14
+2020,WSF-2019-143-WSH.XML,40,3DD.007751EDBF,11W,129,WARMSR,WARMSR,482,2019-05-23,DSF,2020-09-16 17:28:22,A ,482.27,,2020-09-16 17:28:22,2020-09-16 18:59:30,0.06
+2020,WSF-2019-142-WSH.XML,95,3DD.007750EC9C,11W,125,WARMSR,WARMSR,482,2019-05-22,DSF,2020-09-16 18:44:52,A ,483.31,,2020-09-16 18:44:52,2020-09-16 18:44:52,0.00
+2020,WSF-2019-114-WSH.XML,22,3DD.00775107AC,11W,110,WARMSR,WARMSR,482,2019-04-24,DSF,2020-09-17 15:17:09,A ,512.24,,2020-09-17 15:17:09,2020-09-17 15:50:01,0.02
+2020,WSF-2019-142-WSH.XML,95,3DD.007751043E,11W,120,WARMSR,WARMSR,482,2019-05-22,DSF,2020-09-20 15:56:20,A ,487.20,,2020-09-20 15:56:20,2020-09-20 15:56:20,0.00
+2020,WSF-2019-122-WSH.XML,41,3DD.007751A72D,11W,94,WARMSR,WARMSR,482,2019-05-02,DSF,2020-09-21 15:00:29,A ,508.15,,2020-09-21 15:00:29,2020-09-21 18:13:28,0.13
+2020,WSF-2019-123-WSH.XML,19,3DD.00775144ED,11W,105,WARMSR,WARMSR,482,2019-05-03,DSF,2020-09-22 16:35:47,A ,508.31,,2020-09-22 16:35:47,2020-09-22 17:41:54,0.05
+2020,WSF-2019-121-WSH.XML,25,3DD.007750B384,11W,125,WARMSR,WARMSR,482,2019-05-01,DSF,2020-09-24 13:25:05,A ,512.19,,2020-09-24 13:25:05,2020-09-24 18:12:41,0.20
+2020,WSF-2019-136-WSH.XML,38,3DD.007751B07C,11W,138,WARMSR,WARMSR,482,2019-05-16,DSF,2020-09-28 13:36:00,A ,501.15,,2020-09-28 13:36:00,2020-09-28 13:48:16,0.01
+2020,WSF-2019-130-WSH.XML,31,3DD.00775263DD,11W,115,WARMSR,WARMSR,482,2019-05-10,DSF,2020-09-30 10:54:41,A ,509.01,,2020-09-30 10:54:41,2020-09-30 10:54:41,0.00
+2020,WSF-2019-129-MKN.XML,1,3DD.007750A01D,11W,105,WARMSR,WARMSR,791,2019-05-09,DSF,2020-10-01 17:35:17,A ,511.24,,2020-10-01 17:35:17,2020-10-01 19:50:13,0.09
+2020,WSF-2019-144-WSH.XML,47,3DD.007750E17E,11W,130,WARMSR,WARMSR,482,2019-05-24,DSF,2020-10-12 12:38:32,A ,507.14,,2020-10-12 12:38:32,2020-10-12 12:38:32,0.00
+2020,JAR-2018-036-WS1.XML,1567,3DD.0077A1A237,11H,,WSPH,WSPH,479,2018-03-29,DSF,2020-05-10 16:33:40,A ,772.94,,2020-05-10 16:33:40,2020-05-10 16:33:40,0.00
+2020,JAR-2018-036-WS3.XML,5869,3DD.0077A22132,11H,,WSPH,WSPH,479,2018-03-29,DSF,2020-05-10 18:41:10,A ,773.03,,2020-05-10 18:41:10,2020-05-10 18:41:10,0.00
+2020,JAR-2018-037-WS5.XML,7419,3DD.0077A24DA1,11H,,WSPH,WSPH,479,2018-03-29,DSF,2020-05-12 14:24:44,A ,774.85,,2020-05-12 14:24:44,2020-05-12 14:24:44,0.00
+2020,JAR-2019-038-WS4.XML,5750,3DD.003BF30729,11H,,WSPH,WSPH,479,2019-04-05,DSF,2020-05-17 14:22:46,A ,408.14,,2020-05-17 14:22:46,2020-05-17 14:25:47,0.00
+2020,JAR-2018-037-WS5.XML,7419,3DD.0077A4A311,11H,,WSPH,WSPH,479,2018-03-29,DSF,2020-05-18 18:10:10,A ,781.01,,2020-05-18 18:10:10,2020-05-18 18:10:10,0.00
+2020,JAR-2018-036-WS3.XML,5869,3DD.0077A2309A,11H,,WSPH,WSPH,479,2018-03-29,DSF,2020-05-22 18:25:13,A ,785.02,,2020-05-22 18:25:13,2020-05-22 18:53:30,0.02
+2020,JAR-2019-037-WS3.XML,5741,3DD.003C066787,11H,,WSPH,WSPH,479,2019-04-05,DSF,2020-06-03 18:19:50,A ,425.31,,2020-06-03 18:19:50,2020-06-03 18:55:18,0.02
+2020,JAR-2020-035-WS2.XML,3975,3DD.003D69C7A7,11H,157,WSPH,WSPH,479,2020-04-08,DSF,2020-07-07 16:17:01,A ,90.01,,2020-07-07 16:17:01,2020-07-07 16:48:34,0.02
+2020,JAR-2020-034-WS1.XML,3969,3D9.1C2C60953E,11H,137,WSPH,WSPH,479,2020-04-08,DSF,2020-08-05 17:30:09,A ,119.06,,2020-08-05 17:30:09,2020-08-05 18:14:59,0.03
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Spring Chinook 42 Unique Tag IDs Observed Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes;  2020
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2020)
+Generated 07 Nov 2025 08:47:09 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes; not constrained by query Date Range;  2020.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes; not constrained by query Date Range;  2020.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Deschutes Sherars Falls (DSF) rkm 328.071; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

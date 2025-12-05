@@ -1,0 +1,3 @@
+3DD.003D91980F
+3DD.003D91A6A1
+# Unique TagID List for DART PIT Tag Adult Returns Observation Detail. Tag Count 2. SpRRT Adult Spring Chinook. Observation Site Shitike Creek PIT Array (SHK) rkm 328.155.001, Deschutes. Date Range  2022. Released in Deschutes (328.0 - 328.999) Generated 07 Nov 2025 09:43:21 PST. Columbia River DART (Data Access in Real Time) www.cbr.washington.edu/dart.

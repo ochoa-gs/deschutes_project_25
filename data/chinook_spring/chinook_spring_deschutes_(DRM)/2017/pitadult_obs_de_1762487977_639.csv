@@ -1,0 +1,73 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2017,HRP15307.RBT,4991,3DD.0077883B57,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-05-21 20:54:27,A ,412.54,,2017-05-21 20:54:27,2017-05-21 20:54:27,0.00
+2017,HRP15308.RBT,5009,3DD.007788AB34,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-05-22 13:46:28,A ,402.24,,2017-05-22 13:46:28,2017-05-22 13:46:28,0.00
+2017,HRP15308.RBT,5009,3DD.0077802861,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-05-24 17:06:24,A ,404.38,,2017-05-24 17:06:24,2017-05-24 17:06:28,0.00
+2017,HRP15308.RBT,5009,3DD.007780531D,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-05-24 22:11:20,A ,404.59,,2017-05-24 22:11:20,2017-05-24 22:11:20,0.00
+2017,HRP15308.RBT,5009,3DD.00778EF05B,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-05-25 04:07:35,A ,404.84,,2017-05-25 04:07:35,2017-05-25 04:07:35,0.00
+2017,HRP15308.RBT,5009,3DD.007788796A,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-05-25 17:52:08,A ,405.41,,2017-05-25 17:52:08,2017-05-25 17:52:08,0.00
+2017,HRP15307.RBT,4991,3DD.007788DCA4,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-05-25 21:42:21,A ,416.57,,2017-05-25 21:42:21,2017-05-25 21:42:21,0.00
+2017,HRP15307.RBT,4991,3DD.0077883D1B,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-05-26 02:22:01,A ,416.77,,2017-05-26 02:22:01,2017-05-26 02:22:01,0.00
+2017,DBR14342.CL1.DART3,83,3DD.003BD4143F,11H,,ROBU,PELTON,489,2015-04-08,DRM,2017-05-28 01:53:09,A ,781.08,,2017-05-28 01:53:09,2017-05-28 01:53:09,0.00
+2017,HRP15307.RBT,4991,3DD.007788800E,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-05-28 21:19:21,A ,419.56,,2017-05-28 21:19:21,2017-05-28 21:19:21,0.00
+2017,HRP15307.RBT,4991,3DD.007787765B,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-05-31 17:31:30,A ,422.40,,2017-05-31 17:31:30,2017-05-31 17:32:12,0.00
+2017,HRP15307.RBT,4991,3DD.0077890BE8,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-06-01 18:47:31,A ,423.45,,2017-06-01 18:47:31,2017-06-01 18:47:31,0.00
+2017,HRP15308.RBT,5009,3DD.0077809D25,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-06-01 21:53:35,A ,412.58,,2017-06-01 21:53:35,2017-06-01 21:53:35,0.00
+2017,HRP15308.RBT,5009,3DD.0077882BD6,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-06-04 19:10:20,A ,415.47,,2017-06-04 19:10:20,2017-06-04 19:14:26,0.00
+2017,HRP15307.RBT,4991,3DD.007789F166,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-06-09 06:06:56,A ,430.92,,2017-06-09 06:06:56,2017-06-09 06:07:48,0.00
+2017,HRP15307.RBT,4991,3DD.0077891D77,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-06-13 00:29:17,A ,434.69,,2017-06-13 00:29:17,2017-06-13 00:29:17,0.00
+2017,HRP15307.RBT,4991,3DD.007788F1C1,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-06-26 21:55:55,A ,448.58,,2017-06-26 21:55:55,2017-06-26 21:55:55,0.00
+2017,HRP15308.RBT,5009,3DD.007788FC7B,11H,,ROBU,PELTON,489,2016-04-15,DRM,2017-07-01 23:38:57,A ,442.65,,2017-07-01 23:38:57,2017-07-01 23:39:00,0.00
+2017,HRP15307.RBT,4991,3DD.00778930E5,11H,,ROBU,PELTON,489,2016-04-04,DRM,2017-07-19 00:02:20,A ,470.67,,2017-07-19 00:02:20,2017-07-19 00:02:24,0.00
+2017,JCL14305.SCT,19,3DD.00773AF75C,11W,86,SHTIKC,SHTIKC,484,2014-11-01,DRM,2017-06-01 23:00:57,A ,943.25,,2017-06-01 23:00:57,2017-06-01 23:00:57,0.00
+2017,WSF16140.WSH,23,3DD.007789D392,11W,122,WARMSR,WARMSR,464,2016-05-19,DRM,2017-09-29 23:56:50,A ,498.57,,2017-09-29 23:56:50,2017-09-29 23:58:12,0.00
+2017,JAR13037.WS4,3275,3D9.1C2DF351FE,11H,,WSPH,WSPH,479,2013-04-01,DRM,2017-01-30 14:51:48,A ,1400.24,,2017-01-30 14:51:48,2017-01-31 00:06:16,0.39
+2017,JAR12030.WS1,4325,3D9.1C2DD5B8A9,11H,,WSPH,WSPH,479,2012-04-02,DRM,2017-03-10 20:21:58,A ,1803.47,,2017-03-10 20:21:58,2017-03-11 00:49:02,0.19
+2017,JAR15042.WS5,3291,384.3B23B23E22,11H,,WSPH,WSPH,479,2015-03-31,DRM,2017-05-22 13:37:37,A ,783.19,,2017-05-22 13:37:37,2017-05-22 13:37:37,0.00
+2017,JAR15042.WS5,3291,384.3B23A41CC1,11H,95,WSPH,WSPH,479,2015-03-31,DRM,2017-05-24 17:59:37,A ,785.37,,2017-05-24 17:59:37,2017-05-24 17:59:37,0.00
+2017,JAR15042.WS3,2892,384.3B23A4C186,11H,,WSPH,WSPH,479,2015-03-31,DRM,2017-05-25 13:08:17,A ,786.17,,2017-05-25 13:08:17,2017-05-25 13:09:03,0.00
+2017,JAR15041.WS2,3094,384.3B23B01275,11H,,WSPH,WSPH,479,2015-03-30,DRM,2017-05-25 15:41:41,A ,787.28,,2017-05-25 15:41:41,2017-05-25 15:41:41,0.00
+2017,JAR15041.WS1,1850,384.3B23A5AF2F,11H,,WSPH,WSPH,479,2015-03-30,DRM,2017-05-26 18:09:31,A ,788.38,,2017-05-26 18:09:31,2017-05-26 18:10:31,0.00
+2017,JAR15042.WS5,3291,384.3B23A536DC,11H,,WSPH,WSPH,479,2015-03-31,DRM,2017-05-27 07:08:15,A ,787.92,,2017-05-27 07:08:15,2017-05-27 07:08:15,0.00
+2017,JAR15042.WS3,2892,384.3B23A5B249,11H,94,WSPH,WSPH,479,2015-03-31,DRM,2017-05-27 13:35:40,A ,788.19,,2017-05-27 13:35:40,2017-05-27 13:35:40,0.00
+2017,JAR16040.WS3,3292,384.3B23AF2B6C,11H,,WSPH,WSPH,479,2016-03-30,DRM,2017-05-27 19:30:19,A ,423.38,,2017-05-27 19:30:19,2017-05-27 19:31:06,0.00
+2017,JAR15042.WS5,3291,384.3B23A4A284,11H,113,WSPH,WSPH,479,2015-03-31,DRM,2017-05-27 22:25:28,A ,788.56,,2017-05-27 22:25:28,2017-05-27 22:25:28,0.00
+2017,JAR-2016-039-WS1.XML,3586,384.3B23B053AF,11H,,WSPH,WSPH,479,2016-03-30,DRM,2017-05-27 23:24:18,A ,423.58,,2017-05-27 23:24:18,2017-05-27 23:25:18,0.00
+2017,JAR15042.WS3,2892,384.3B23A4B2FD,11H,,WSPH,WSPH,479,2015-03-31,DRM,2017-05-28 10:34:43,A ,789.07,,2017-05-28 10:34:43,2017-05-28 10:34:43,0.00
+2017,JAR15041.WS1,1850,384.3B23B05915,11H,,WSPH,WSPH,479,2015-03-30,DRM,2017-05-31 06:35:36,A ,792.90,,2017-05-31 06:35:36,2017-05-31 06:35:36,0.00
+2017,JAR-2016-039-WS1.XML,3586,384.3B23B01444,11H,,WSPH,WSPH,479,2016-03-30,DRM,2017-05-31 17:09:39,A ,427.32,,2017-05-31 17:09:39,2017-05-31 17:10:26,0.00
+2017,JAR15041.WS1,1850,384.3B23B03432,11H,,WSPH,WSPH,479,2015-03-30,DRM,2017-06-01 01:16:58,A ,793.68,,2017-06-01 01:16:58,2017-06-01 01:16:58,0.00
+2017,JAR15041.WS2,3094,384.3B23B0674B,11H,,WSPH,WSPH,479,2015-03-30,DRM,2017-06-07 04:08:43,A ,799.80,,2017-06-07 04:08:43,2017-06-07 04:08:43,0.00
+2017,JAR16040.WS3,3292,384.3B23AF6799,11H,134,WSPH,WSPH,479,2016-03-30,DRM,2017-06-15 02:43:23,A ,441.68,,2017-06-15 02:43:23,2017-06-15 02:43:23,0.00
+2017,JAR15042.WS3,2892,384.3B23B1ED1A,11H,,WSPH,WSPH,479,2015-03-31,DRM,2017-06-19 23:11:14,A ,811.59,,2017-06-19 23:11:14,2017-06-19 23:12:29,0.00
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Spring Chinook 40 Unique Tag IDs Observed Deschutes River mouth (DRM) rkm 328.001; Deschutes;  2017
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2017)
+Generated 06 Nov 2025 19:59:37 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Deschutes River mouth (DRM) rkm 328.001; Deschutes; not constrained by query Date Range;  2017.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Deschutes River mouth (DRM) rkm 328.001; Deschutes; not constrained by query Date Range;  2017.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Deschutes River mouth (DRM) rkm 328.001; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Deschutes River mouth (DRM) rkm 328.001; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

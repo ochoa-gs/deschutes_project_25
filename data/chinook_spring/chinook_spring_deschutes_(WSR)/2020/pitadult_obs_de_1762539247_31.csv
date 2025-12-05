@@ -1,0 +1,51 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2020,HRP-2019-289-001.XML,4879,3DD.003D6B8B81,11H,,ROBU,PELTON,489,2020-04-06,WSR,2020-08-23 03:09:17,A ,138.76,,2020-08-23 03:09:17,2020-08-23 19:46:47,0.69
+2020,WSF-2019-114-WSH.XML,22,3DD.00775107AC,11W,110,WARMSR,WARMSR,482,2019-04-24,WSR,2020-09-23 21:33:41,A ,518.50,,2020-09-23 21:33:41,2020-09-23 21:33:41,0.00
+2020,WSF-2019-142-WSH.XML,95,3DD.007751043E,11W,120,WARMSR,WARMSR,482,2019-05-22,WSR,2020-09-25 20:40:51,A ,492.39,,2020-09-25 20:40:51,2020-09-25 20:40:51,0.00
+2020,WSF-2019-143-WSH.XML,40,3DD.007751EDBF,11W,129,WARMSR,WARMSR,482,2019-05-23,WSR,2020-09-27 00:48:09,A ,492.57,,2020-09-27 00:48:09,2020-09-27 00:48:09,0.00
+2020,WSF-2019-123-WSH.XML,19,3DD.00775144ED,11W,105,WARMSR,WARMSR,482,2019-05-03,WSR,2020-09-27 01:03:26,A ,512.66,,2020-09-27 01:03:26,2020-09-27 01:03:26,0.00
+2020,WSF-2019-122-WSH.XML,41,3DD.007751A72D,11W,94,WARMSR,WARMSR,482,2019-05-02,WSR,2020-09-28 03:05:50,A ,514.66,,2020-09-28 03:05:50,2020-09-28 03:05:50,0.00
+2020,WSF-2019-144-WSH.XML,47,3DD.007751BE94,11W,119,WARMSR,WARMSR,482,2019-05-24,WSR,2020-09-30 03:25:50,A ,494.76,,2020-09-30 03:25:50,2020-09-30 03:25:50,0.00
+2020,WSF-2019-121-WSH.XML,25,3DD.007750B384,11W,125,WARMSR,WARMSR,482,2019-05-01,WSR,2020-10-01 01:26:00,A ,518.69,,2020-10-01 01:26:00,2020-12-07 17:44:07,67.68
+2020,WSF-2019-144-WSH.XML,47,3DD.0077515428,11W,133,WARMSR,WARMSR,482,2019-05-24,WSR,2020-10-04 19:26:56,A ,499.42,,2020-10-04 19:26:56,2020-10-04 19:26:56,0.00
+2020,WSF-2019-130-WSH.XML,31,3DD.00775263DD,11W,115,WARMSR,WARMSR,482,2019-05-10,WSR,2020-10-05 21:38:19,A ,514.46,,2020-10-05 21:38:19,2020-10-05 21:38:19,0.00
+2020,WSF-2019-122-WSH.XML,41,3DD.0077519331,11W,120,WARMSR,WARMSR,482,2019-05-02,WSR,2020-10-07 21:21:09,A ,524.49,,2020-10-07 21:21:09,2020-11-28 22:25:01,52.04
+2020,WSF-2019-129-MKN.XML,1,3DD.007750A01D,11W,105,WARMSR,WARMSR,791,2019-05-09,WSR,2020-10-11 03:44:41,A ,520.67,,2020-10-11 03:44:41,2020-10-11 03:44:41,0.00
+2020,WSF-2019-144-WSH.XML,47,3DD.007750E17E,11W,130,WARMSR,WARMSR,482,2019-05-24,WSR,2020-10-19 19:53:01,A ,514.44,,2020-10-19 19:53:01,2020-12-21 23:22:26,63.15
+2020,WSF-2019-136-WSH.XML,38,3DD.007751B07C,11W,138,WARMSR,WARMSR,482,2019-05-16,WSR,2020-10-31 19:18:08,A ,534.39,,2020-10-31 19:18:08,2020-11-06 20:03:11,6.03
+2020,WSF-2019-141-WSH.XML,76,3DD.00775208D9,11W,125,WARMSR,WARMSR,482,2019-05-21,WSR,2020-11-02 21:06:30,A ,531.36,,2020-11-02 21:06:30,2020-11-24 03:26:02,21.26
+2020,WSF-2019-107-WSH.XML,24,3DD.0077B5FE7A,11W,118,WARMSR,WARMSR,482,2019-04-17,WSR,2020-12-03 18:03:04,A ,596.35,,2020-12-03 18:03:04,2020-12-03 18:04:07,0.00
+2020,JAR-2018-036-WS3.XML,5869,3DD.0077A22132,11H,,WSPH,WSPH,479,2018-03-29,WSR,2020-08-13 23:16:13,A ,868.22,,2020-08-13 23:16:13,2020-08-13 23:16:13,0.00
+2020,JAR-2020-034-WS1.XML,3969,3D9.1C2C60953E,11H,137,WSPH,WSPH,479,2020-04-08,WSR,2020-08-15 20:03:38,A ,129.17,,2020-08-15 20:03:38,2020-08-15 20:03:40,0.00
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Spring Chinook 18 Unique Tag IDs Observed Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes;  2020
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2020)
+Generated 07 Nov 2025 10:14:07 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes; not constrained by query Date Range;  2020.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes; not constrained by query Date Range;  2020.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Warm Springs River PIT Array (WSR) rkm 328.135.001; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+

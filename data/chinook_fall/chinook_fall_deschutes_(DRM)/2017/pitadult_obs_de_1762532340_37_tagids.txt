@@ -1,0 +1,10 @@
+3D9.239F859CBE
+3DD.00773AEEB3
+3DD.00778C232A
+3DD.00778E297C
+3DD.0077992602
+3DD.0077996B48
+3DD.0077997773
+3DD.00779984B9
+384.1B79776CAB
+# Unique TagID List for DART PIT Tag Adult Returns Observation Detail. Tag Count 9. SpRRT Adult Fall Chinook. Observation Site Deschutes River mouth (DRM) rkm 328.001, Deschutes. Date Range  2017. Released in Deschutes (328.0 - 328.999) Generated 07 Nov 2025 08:19:00 PST. Columbia River DART (Data Access in Real Time) www.cbr.washington.edu/dart.

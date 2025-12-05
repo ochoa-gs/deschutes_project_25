@@ -1,0 +1,3 @@
+3D9.239F851AF9
+384.3B23ACD750
+# Unique TagID List for DART PIT Tag Adult Returns Observation Detail. Tag Count 2. SpRRT Adult Fall Chinook. Observation Site Deschutes Sherars Falls (DSF) rkm 328.071, Deschutes. Date Range  2016. Released in Deschutes (328.0 - 328.999) Generated 07 Nov 2025 08:36:29 PST. Columbia River DART (Data Access in Real Time) www.cbr.washington.edu/dart.

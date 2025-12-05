@@ -1,0 +1,49 @@
+Year,Tag File,NFish,Tag ID,SpRRT,Length,Mark Site,Release Site,Total RKM,Release Date,Obs Site,Obs Time,Stage,Travel Days,NotFirst,Min Time,Max Time,Location Days
+2016,WSF12160.04,3681,3D9.1C2DE7A1EF,13W,73,DESCH1,DESCH1,477,2012-06-08,DRM,2016-05-29 11:05:55,A ,1451.09,NF,2015-03-24 15:47:33,2016-05-29 11:05:55,431.80
+2016,WSF14158.WSF,1582,3DD.00773B89F1,13W,86,DESCH1,DESCH1,477,2014-06-08,DRM,2016-09-14 16:53:45,A ,829.12,,2016-09-14 16:53:45,2016-09-14 16:53:45,0.00
+2016,WSF13150.SHA,4429,384.3B23AE02B7,13W,75,DESCH1,DESCH1,477,2013-05-31,DRM,2016-09-14 17:34:07,A ,1202.42,,2016-09-14 17:34:07,2016-09-14 17:34:07,0.00
+2016,WSF14164.WSF,571,3DD.00773B179E,13W,95,DESCH1,DESCH1,477,2014-06-13,DRM,2016-09-14 19:58:33,A ,824.42,,2016-09-14 19:58:33,2016-09-14 19:58:33,0.00
+2016,WSF14161.WSF,2907,3D9.239F85B6E8,13W,69,DESCH1,DESCH1,477,2014-06-11,DRM,2016-09-16 05:17:30,A ,827.86,,2016-09-16 05:17:30,2016-09-16 05:17:30,0.00
+2016,WSF13151.SHA,2700,3D9.239F8505F4,13W,60,DESCH1,DESCH1,477,2013-06-01,DRM,2016-09-17 11:47:57,A ,1204.18,,2016-09-17 11:47:57,2016-09-17 11:47:57,0.00
+2016,WSF13151.SHA,2700,3D9.239F8523DD,13W,55,DESCH1,DESCH1,477,2013-06-01,DRM,2016-09-21 05:57:46,A ,1207.94,,2016-09-21 05:57:46,2016-09-21 05:57:46,0.00
+2016,WSF14163.WSF,1315,3DD.00773B6A6C,13W,99,DESCH1,DESCH1,477,2014-06-13,DRM,2016-09-26 05:54:45,A ,835.88,,2016-09-26 05:54:45,2016-09-26 05:54:45,0.00
+2016,WSF14161.WSF,2907,3DD.00773BAF68,13W,90,DESCH1,DESCH1,477,2014-06-11,DRM,2016-09-27 23:14:03,A ,839.61,,2016-09-27 23:14:03,2016-09-27 23:14:06,0.00
+2016,WSF14162.WSF,2187,3DD.00773AB5AA,13W,95,DESCH1,DESCH1,477,2014-06-12,DRM,2016-09-28 06:22:22,A ,838.92,,2016-09-28 06:22:22,2016-09-28 06:23:26,0.00
+2016,WSF14155.WSF,2731,3D9.239F857C31,13W,71,DESCH1,DESCH1,477,2014-06-05,DRM,2016-10-14 04:24:29,A ,861.82,,2016-10-14 04:24:29,2016-10-14 05:05:08,0.03
+2016,WSF12166.07,2550,3D9.239F853AAB,13W,56,DESCH1,DESCH1,477,2012-06-15,DRM,2016-10-20 04:12:02,A ,1587.82,,2016-10-20 04:12:02,2016-10-20 04:12:02,0.00
+2016,WSF13162.SHA,3257,3D9.239F84E232,13W,62,DESCH1,DESCH1,477,2013-06-12,DRM,2016-10-22 04:58:12,A ,1227.79,,2016-10-22 04:58:12,2016-10-22 04:58:12,0.00
+2016,WSF14161.WSF,2907,3DD.00773B5B3B,13W,75,DESCH1,DESCH1,477,2014-06-11,DRM,2016-10-22 07:26:45,A ,863.95,,2016-10-22 07:26:45,2016-10-22 07:27:54,0.00
+2016,WSF14162.WSF,2187,3DD.00773B2510,13W,79,DESCH1,DESCH1,477,2014-06-12,DRM,2016-10-23 08:28:33,A ,864.01,,2016-10-23 08:28:33,2016-10-23 08:29:24,0.00
+2016,WSF13149.SHA,3017,3D9.239F853811,13W,60,DESCH1,DESCH1,477,2013-05-30,DRM,2016-12-08 17:08:22,A ,1288.38,,2016-12-08 17:08:22,2016-12-09 09:35:09,0.69
+Notes:
+Columbia River DART
+PIT Tag Adult Returns Observation Detail
+Adult Fall Chinook 16 Unique Tag IDs Observed Deschutes River mouth (DRM) rkm 328.001; Deschutes;  2016
+Released in Deschutes (328.0 - 328.999)
+Detections by Location (may be combination of multiple individual Interrogation Sites)
+Sorted by Release Site and by Observation Time (minimum for  2016)
+Generated 07 Nov 2025 08:18:22 PST. DART PIT Tag Adult Returns Observation Detail www.cbr.washington.edu/dart/query/pitadult_obsyr_detail.
+Data Courtesy of Pacific States Marine Fisheries Commission.
+Table Columns
+<ul>
+<li>Year: Year of detection event.</li>
+<li>Tag File: Tagging File of detected fish. <a href="/dart/metadata/pit#dartfileid">DART-specific file_id (.DART[N])</a></li>
+<li>NFish: Number of fish released for Tagging File matching Species; Run and Rear Type.</li>
+<li>Tag ID: Individual Tag ID of fish detected.</li>
+<li>SpRRT: Species; Run; Rear Type combination for Tag ID.</li>
+<li>Length: Fork length at release for Tag ID.</li>
+<li>Release Site: Release site for Tagging File.</li>
+<li>Total RKM: Represents the total river kilometers from the mouth of the Columbia River to the release site based on the release site river kilometer as reported by PTAGIS https://www.ptagis.org/. Some release sites indicate a range of river kilometers. In these cases; a general river kilometer for the main river is assigned to the release site; e.g.; SNAKE3 'Snake River - Clearwater River to Salmon River (km 224-303)' is assigned 522 (rkm for Snake River mouth).</li>
+<li>Release Date: Individual Release Date for Tag ID.</li>
+<li>Obs Site: Interrogation Site for detection event.</li>
+<li>Obs Time: Observation date and time for detection event. First detection at specified Location within specified date range of query. This may not be the first detection for Tag ID at the location. See "NotFirst" and "Min" columns.</li>
+<li>Travel Days: Days from Release Date to Observation Time.</li>
+<li>NotFirst: Indicates that the query result detection event is not the first detection of Tag ID at the specified location. At some projects; this can indicate reascension of the project. However; detection sites may be inline within the project; as is the case with BO3->BO4 and BO2->BO4 at Bonneville. As a result; the total number of observations may be greater than the total number of unique PIT-tagged fish included in this report. The PTAGIS Interrogation Site Configurations are available from https://www.ptagis.org/.</li>
+<li>Min Time: Minimum or first detection time for the Tag ID; life stage adult; at the specified Location; Deschutes River mouth (DRM) rkm 328.001; Deschutes; not constrained by query Date Range;  2016.</li>
+<li>Max Time: Maximum or last detection time (to date) for the Tag ID; life stage adult; at the specified Location; Deschutes River mouth (DRM) rkm 328.001; Deschutes; not constrained by query Date Range;  2016.</li>
+<li>Location Days: Days from Min to Max detection times. In the case of Steelhead; may highlight repeat spawners.</li>
+</ul>
+
+Adult PIT Tag Observations at Deschutes River mouth (DRM) rkm 328.001; Deschutes presented in this report are based on data filtering--including migration year; release year; release length; observation year; release site; and other criteria--used to determine the stage of the PIT-tagged fish at the time of the detection. DART categorizes PIT Tag observations into three stages: Adult; Juvenile; and Unknown. PIT Tag detections at this site that DART has determined to be of Juvenile or Unknown stage are excluded from this report. Please use the DART PIT Tags by Observation Site Detail Report query at www.cbr.washington.edu/dart/query/pit_obs_detail to view all detections at Deschutes River mouth (DRM) rkm 328.001; Deschutes.
+"DART Data Citation. Columbia River DART, Columbia Basin Research, University of Washington. (2025). PIT Tag Adult Returns Observation Detail. Available from https://www.cbr.washington.edu/dart/query/pitadult_obsyr_detail."
+
