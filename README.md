@@ -54,3 +54,10 @@ All scripts require the installation of the following R packages:
 * `here`
 * `zoo`
 * `rlang`
+
+## VSCode Extensions for R Development
+
+* **R Extension for VS Code:** Provides core language features (syntax highlighting, IntelliSense, R terminal interaction).
+    * `REditorSupport.r`
+* **R Debugger:** Essential for setting breakpoints and debugging R scripts.
+    * `REditorSupport.r-debugger`
