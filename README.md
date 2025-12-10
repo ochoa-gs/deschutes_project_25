@@ -61,3 +61,23 @@ All scripts require the installation of the following R packages:
     * `REditorSupport.r`
 * **R Debugger:** Essential for setting breakpoints and debugging R scripts.
     * `REditorSupport.r-debugger`
+
+
+ ##  Git Installation for Windows 
+
+1.  **Download the Installer:**
+    * Go to the official [Git website for downloads](https://git-scm.com/download/win).
+    * The download should start automatically.
+
+2.  **Run the Installer:**
+    * Double-click the downloaded file (`.exe`).
+    * **Follow the Prompts:** For most of the installation screens, the default settings are appropriate and recommended.
+    * ***Crucial Step:*** During the configuration process, ensure that the option **"Use Git from the Windows Command Prompt"** (or a similar selection regarding your system's PATH) is selected.
+
+3.  **Verify the Installation:**
+    * Once the installation is complete, open your Command Prompt (or Git Bash) and run the following command:
+        ```bash
+        git --version
+        ```
+
+---
