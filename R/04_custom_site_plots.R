@@ -347,4 +347,4 @@ print(plot_monthly_spore_all_sites())
 print(plot_raw_vs_log_boxplots("OS", 2016))
 
 ## --- Example 4: Raw vs. Log Histograms for EDA (Single WY) ---
-print(plot_spore_histograms("PT", 2016))
+print(plot_spore_histograms("OS", 2016))
